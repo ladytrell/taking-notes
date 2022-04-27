@@ -1,12 +1,7 @@
 [
   {
-    "title": "Test Title",
-    "text": "Test text",
-    "id": "67pRVQ"
-  },
-  {
-    "title": "Deploy to Heroku",
-    "text": "Review Heroku notes",
-    "id": "qAqGPw"
+    "title": "Bonus Points",
+    "text": "Add delete function",
+    "id": "4IFZJQ"
   }
 ]
