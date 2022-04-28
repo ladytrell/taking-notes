@@ -13,7 +13,7 @@
 
   ## Usage
 
- - Access the app at [TAKING NOTES](https://github.com/ladytrell/team-directory) 
+ - Access the app at [TAKING NOTES](https://fast-lowlands-78933.herokuapp.com/) 
  - Click get started
  - Type in new note title and text
  - Click the save icon in the upper right corner
